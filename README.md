@@ -26,8 +26,9 @@ Create the webhooks in Discord for each channel which will receive notifications
 
 ### Step 4
 Download the repository to your computer.
+
 Run the following command in your terminal:
-git clone https://github.com/Inquinim/ping.git
+- git clone https://github.com/Inquinim/ping.git
 
 Or, you can use GitHub Desktop.
 
