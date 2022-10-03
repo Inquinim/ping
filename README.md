@@ -43,7 +43,8 @@ Fill the general webhook into core.py under WEBHOOK_GENERAL.
 In ping_user.py, add your server name(s), IP(s) and a True/False value depending on whether you want to check if subtensor responds for that server.
 
 ### Step 8
-Run the ping_user.py script on your server/computer with: python3 ping_user.py
+Run the ping_user.py script on your server/computer with the command:
+- python3 ping_user.py
 
 ### Firewall
 If you have a firewall in place, allow traffic to your server(s) from your IP or from the cloud server you rent to port 9944
