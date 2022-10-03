@@ -9,7 +9,7 @@ A script to ping your servers and subtensor nodes to ensure they are online. If 
 Windows and Mac compatibility unknown.
 
 ## Where to run the script?
-It's recommended to rent a cloud server (Contabo/GCP/AWS/Oracle/Other). You can run it on your computer with Ubuntu 20.04+; if you turn your computer off, if there is a network or power outage, the script will stop working.
+It's recommended to rent a cloud server (Contabo/GCP/AWS/Oracle/Other). You can run it on your computer with Ubuntu 20.04+; if you turn your computer off, or if there is a network or power outage, the script will stop working.
 
 ## Specs
 The script is very lightweight. A system with 2GB of RAM and 1-2 cores is plenty.
