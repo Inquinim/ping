@@ -24,14 +24,21 @@ The script is very lightweight. A system with 2GB of RAM and 1-2 cores is plenty
 ### Step 3
 Create the webhooks in Discord for each channel which will receive notifications.
 
-### Step 3
+### Step 4
+Download the repository to your computer.
+Run the following command in your terminal:
+git clone https://github.com/Inquinim/ping.git
+
+Or, you can use GitHub Desktop.
+
+### Step 5
 Fill the user specific webhook(s) into ping_user.py under WEBHOOK_EXAMPLE.
 Fill the general webhook into core.py under WEBHOOK_GENERAL.
 
-### Step 4
+### Step 6
 In ping_user.py, add your server name(s), IP(s) and a True/False value depending on whether you want to check if subtensor responds for that server.
 
-### Step 5
+### Step 7
 Run the ping_user.py script on your server/computer with: python3 ping_user.py
 
 ### Firewall
