@@ -33,13 +33,16 @@ Run the following command in your terminal:
 Or, you can use GitHub Desktop.
 
 ### Step 5
+You'll need some code editor like Sublime Text, Notepad ++, Vim, Nano, or Visual Studio Code (recommended)
+
+### Step 6
 Fill the user specific webhook(s) into ping_user.py under WEBHOOK_EXAMPLE.
 Fill the general webhook into core.py under WEBHOOK_GENERAL.
 
-### Step 6
+### Step 7
 In ping_user.py, add your server name(s), IP(s) and a True/False value depending on whether you want to check if subtensor responds for that server.
 
-### Step 7
+### Step 8
 Run the ping_user.py script on your server/computer with: python3 ping_user.py
 
 ### Firewall
