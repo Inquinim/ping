@@ -15,7 +15,7 @@ WEBHOOK_GENERAL = ""
 SUBTENSOR_PORT = 9944
 
 # How many seconds between pings
-PING_INTERVAL = 10
+PING_INTERVAL = 300
 
 # Number of attempts to make if the initial server connection fails
 NUM_ATTEMPTS = 5  # Max 10
